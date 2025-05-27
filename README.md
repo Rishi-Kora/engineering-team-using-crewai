@@ -1,5 +1,5 @@
-````markdown
-# engineering-team-using-crewai
+
+# Engineering Team Using Crewai
 
 A demonstration project showing how to orchestrate a multi-agent “engineering team” using the [crewai](https://pypi.org/project/crewai/) framework. This repo defines a crew of specialized agents (engineering lead, backend engineer, frontend engineer, test engineer) and a set of tasks (design, code, frontend, test) which are executed sequentially to satisfy a simple account-management requirements specification.
 
@@ -84,7 +84,7 @@ This repository shows how to leverage the `crewai` library to coordinate multipl
    ```bash
    git clone https://github.com/Rishi-Kora/engineering-team-using-crewai.git
    cd engineering-team-using-crewai
-````
+
 
 2. **Create & activate a virtual environment**
 

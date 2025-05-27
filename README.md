@@ -206,7 +206,6 @@ Please ensure all new code is covered by appropriate tests and follows PEP 8 sty
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
 
 ## Contact
 
@@ -214,5 +213,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 * **GitHub**: [Rishi-Kora](https://github.com/Rishi-Kora)
 * **Project URL**: [https://github.com/Rishi-Kora/engineering-team-using-crewai](https://github.com/Rishi-Kora/engineering-team-using-crewai)
 
-```
-```
+
